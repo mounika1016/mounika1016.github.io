@@ -1,2 +1,43 @@
 # mounika1016.github.io
 WEB-DEV BOOTCAMP
+<html>
+<head>
+	<title>The Rock Resume</title>
+	<link href="newstyle.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+	<section id="main">
+	<nav>
+		<a href="#" class="logo">
+		
+		<img src="lion.png"   alt="the logo of project">
+
+		</a>
+		<span class="menuspace"></span>
+<ul class="menu">
+	<li><a href="#">Home</a></li>
+	<li><a href="#">skills</a></li>
+	<li><a href="#">recent</a></li>
+	<li><a href="#">client</a></li>
+	<li><a href="#">contact</a></li>
+
+</ul>
+<a href="#" class="hey"> <strong>Say Hi !</strong></a>
+	</nav>
+</section>
+<section class="content">
+	<div class="image">
+		<img src="ias.png" alt="ias officer">
+
+	</div>
+	<div class="main-text">
+		<h1>Hello, I am the <br> Smitha Sabarwal</h1>
+		<p>Hey,This video I will be showing you guys.How to built website using HTML and CSS
+		</p>
+		<a href="#" class="resume-btn"> See My Resume</a>
+</div>
+</section>
+</body>
+</html>
+
