@@ -1,5 +1,4 @@
-# mounika1016.github.io
-WEB-DEV BOOTCAMP
+
 <html>
 <head>
 	<title>The Rock Resume</title>
